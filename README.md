@@ -7,7 +7,7 @@ The purpose of this project was to determine whether refactoring the code succes
 This is done by refactoring code to loop through all the data one time in order to collect the same information. 
 
 ## Results
-My experience was that the original code ran faster than the refactored code. 
+My experience was that the refactored code ran faster. 
 # Original Results
 ![Orignal Code](https://github.com/Williamj83/stock-analysis/blob/main/Resources/Orignal%20Code.png)
 # Refactored Results
